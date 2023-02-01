@@ -8,10 +8,10 @@ namespace Palindrome.Test
     public class ReverseMethodTests
     {
         [TestMethod]
-        public void ReverseMethod_TakesInString_True()
+        public void ReverseMethod_TakesInString_False()
         {
             ReverseMethod testPalindrome = new ReverseMethod();
-            Assert.AreEqual(true, testPalindrome.IsPalindrome("word"));
+            Assert.AreEqual(false, testPalindrome.IsPalindrome("word"));
         }
         [TestMethod]
         public void ReverseMethod_ReverseString_True()
