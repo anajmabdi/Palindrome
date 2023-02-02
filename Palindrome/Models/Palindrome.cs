@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace Palindrome
+namespace Palindrome.Models
 {
   public class ReverseMethod
   {

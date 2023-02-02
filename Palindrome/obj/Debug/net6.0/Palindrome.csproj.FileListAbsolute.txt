@@ -10,3 +10,6 @@
 /Users/najmabdi/Desktop/Palindrome.Solution/Palindrome/obj/Debug/net6.0/refint/Palindrome.dll
 /Users/najmabdi/Desktop/Palindrome.Solution/Palindrome/obj/Debug/net6.0/Palindrome.pdb
 /Users/najmabdi/Desktop/Palindrome.Solution/Palindrome/obj/Debug/net6.0/ref/Palindrome.dll
+/Users/najmabdi/Desktop/Palindrome.Solution/Palindrome/bin/Debug/net6.0/Palindrome
+/Users/najmabdi/Desktop/Palindrome.Solution/Palindrome/bin/Debug/net6.0/Palindrome.runtimeconfig.json
+/Users/najmabdi/Desktop/Palindrome.Solution/Palindrome/obj/Debug/net6.0/Palindrome.genruntimeconfig.cache
